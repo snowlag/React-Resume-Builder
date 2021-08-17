@@ -18,7 +18,8 @@
     "react-to-pdf": "0.0.14",
     "react-to-print": "^2.13.0",
     "redux": "4.1.1",
-    "redux-thunk": "2.3.0"
+    "redux-thunk": "2.3.0",
+    "typescript": "4.3.5"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
